@@ -160,7 +160,7 @@ color: yellow;
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../../Pictures/quem é este pokémon.webp</pixmap>
+     <pixmap>img/quem é este pokémon.webp</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -179,7 +179,7 @@ color: yellow;
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../../Downloads/charmander-Photoroom.png</pixmap>
+     <pixmap>img/charmander-Photoroom.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
